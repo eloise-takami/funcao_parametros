@@ -1,4 +1,4 @@
-<h1> função vários parâmetros </h1>
+<h1> função com vários parâmetros </h1>
 
 Programa que tem uma função chamada maior(), que recebe vários parâmetros com
 valores inteiros.<br>
